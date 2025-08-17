@@ -1,7 +1,7 @@
 import pandas as pd
 from neo4j import GraphDatabase
 
-url = '' #Enter your neo4j url here
+url = '' #Enter your neo4j uri here
 username = '' #Enter your neo4j username
 password = '' #Enter your password
 
